@@ -1,0 +1,6 @@
+{
+    "name": "s3EndpointToRestoreData",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
