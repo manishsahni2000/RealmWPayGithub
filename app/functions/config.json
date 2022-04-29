@@ -1,0 +1,34 @@
+[
+    {
+        "name": "PushToS3",
+        "private": false
+    },
+    {
+        "name": "axiosPost",
+        "private": false
+    },
+    {
+        "name": "countDocuments",
+        "private": false
+    },
+    {
+        "name": "getLogsFromAWSS3",
+        "private": false
+    },
+    {
+        "name": "insertLogsToDB",
+        "private": false
+    },
+    {
+        "name": "insertToS3",
+        "private": false
+    },
+    {
+        "name": "sendAlerts",
+        "private": false
+    },
+    {
+        "name": "PushLogsToS3",
+        "private": false
+    }
+]

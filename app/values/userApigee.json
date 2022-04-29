@@ -1,0 +1,5 @@
+{
+    "name": "userApigee",
+    "value": "apigeeUser",
+    "from_secret": false
+}
