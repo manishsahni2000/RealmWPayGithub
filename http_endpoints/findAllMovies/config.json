@@ -1,0 +1,6 @@
+{
+    "name": "findAllMovies",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
