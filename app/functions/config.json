@@ -1,22 +1,14 @@
 [
     {
+        "name": "axiosPost",
+        "private": false
+    },
+    {
         "name": "countDocuments",
         "private": false
     },
     {
-        "name": "sendAlerts",
-        "private": false
-    },
-    {
-        "name": "PushToS3",
-        "private": false
-    },
-    {
-        "name": "PushLogsToS3",
-        "private": false
-    },
-    {
-        "name": "insertToS3",
+        "name": "getLogsFromAWSS3",
         "private": false
     },
     {
@@ -24,11 +16,19 @@
         "private": false
     },
     {
-        "name": "axiosPost",
+        "name": "insertToS3",
         "private": false
     },
     {
-        "name": "getLogsFromAWSS3",
+        "name": "sendAlerts",
+        "private": false
+    },
+    {
+        "name": "PushLogsToS3",
+        "private": false
+    },
+    {
+        "name": "PushToS3",
         "private": false
     }
 ]
