@@ -1,3 +1,4 @@
+// Just for Fun
 exports = async function(changeEvent) {
   console.log("ChangeEvent: ", JSON.stringify(changeEvent));
   const account_id = changeEvent.fullDocument.account_id;
