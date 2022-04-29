@@ -1,5 +1,5 @@
 exports = async function(changeEvent) {
-  // Testing Hello it again Manish with Poorna and Matt is actually Testing changes deployed to Realm function okk
+  // Hey Testing Hello it again Manish with Poorna and Matt is actually Testing changes deployed to Realm function okk
   console.log("ChangeEvent: ", JSON.stringify(changeEvent));
   const account_id = changeEvent.fullDocument.account_id;
   const accounts = context.services.get("mongodb-atlas").db("sample_analytics");
