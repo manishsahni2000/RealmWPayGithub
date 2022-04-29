@@ -1,4 +1,5 @@
 {
+    "id": "623bf96b2699689258b7cf60",
     "name": "pushAuditLogsToS3",
     "type": "SCHEDULED",
     "config": {
