@@ -14,7 +14,7 @@ var endDate = "1646223532"   // this can be +5 minutes for the current epoch tim
 
   groupId="5e5fbb4e0c04a970090f6686";
   host="cluster0-shard-00-00.q8vwk.mongodb.net";
-  logType="mongodb-audit";
+  logType="mongodb-audit-log";
 
 
   const arg = { 
