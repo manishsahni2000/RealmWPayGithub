@@ -1,9 +1,5 @@
 [
     {
-        "name": "insertLogsToDB",
-        "private": false
-    },
-    {
         "name": "insertToS3",
         "private": false
     },
@@ -29,6 +25,10 @@
     },
     {
         "name": "getLogsFromAWSS3",
+        "private": false
+    },
+    {
+        "name": "insertLogsToDB",
         "private": false
     }
 ]
