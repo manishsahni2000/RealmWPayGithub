@@ -1,5 +1,13 @@
 [
     {
+        "name": "insertToS3",
+        "private": false
+    },
+    {
+        "name": "sendAlerts",
+        "private": false
+    },
+    {
         "name": "PushLogsToS3",
         "private": false
     },
@@ -21,14 +29,6 @@
     },
     {
         "name": "insertLogsToDB",
-        "private": false
-    },
-    {
-        "name": "insertToS3",
-        "private": false
-    },
-    {
-        "name": "sendAlerts",
         "private": false
     }
 ]

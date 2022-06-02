@@ -32,8 +32,8 @@ var startDate = new Date(numberOfMlSecondsForEndDate - subtractMlSeconds);
     headers: {'Content-Type': ['application/json'], 'Accept-Encoding': ['application/gzip']},
     digestAuth:true,
     query: {
-    "startDate": [[Math.round(startDate / 1000).toString()]],
-    "endDate": [[Math.round(endDate / 1000).toString()]]
+    "startDate": [Math.round(startDate / 1000).toString()],
+    "endDate": [Math.round(endDate / 1000).toString()]
   }
   };
   
