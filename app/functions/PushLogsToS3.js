@@ -40,6 +40,6 @@ var endDate = "1646223532"   // this can be +5 minutes for the current epoch tim
     return
   }
   
-  context.functions.execute("insertToS3", payload, "manishsahnibuckets","logs"+(new Date()).toJSON()+"");
+  context.functions.execute("insertToS3", payload, "manishsahnibuckets","logs"+(new Date()).toJSON()+".json");
 
 };
